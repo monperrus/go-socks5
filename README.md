@@ -16,6 +16,12 @@ The package has the following features:
 * Custom DNS resolution
 * Unit tests
 
+Installation
+=============
+
+    go get -u github.com/armon/go-socks5
+
+
 TODO
 ====
 
